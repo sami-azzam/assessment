@@ -21,5 +21,7 @@ app.listen(3000, () => {
 
 
 app.post("/", (req, res) => {
-    
+    /**
+     * Did not get access to SendGrid API
+     */
 })
